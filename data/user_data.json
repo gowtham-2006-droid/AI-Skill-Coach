@@ -1,0 +1,32 @@
+{
+  "user": {
+    "name": "Explorer"
+  },
+  "mood": "focused",
+  "skills": {
+    "Python": {
+      "level": 20,
+      "energy": 45
+    },
+    "Public Speaking": {
+      "level": 10,
+      "energy": 35
+    },
+    "python": {
+      "level": 5,
+      "energy": 100
+    }
+  },
+  "engagements": [
+    {
+      "time": "2025-10-07 02:54",
+      "event": "challenge_completed",
+      "delta": 15
+    },
+    {
+      "time": "2025-10-07 02:55",
+      "event": "focus_session",
+      "delta": 3
+    }
+  ]
+}
